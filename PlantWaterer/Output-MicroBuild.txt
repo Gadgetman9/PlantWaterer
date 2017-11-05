@@ -1,6 +1,0 @@
-﻿Compiling 'ds3231' for 'Arduino/Genuino Uno'
-Program size: 4,316 bytes (used 13% of a 32,256 byte maximum) (0.60 secs)
-Minimum Memory Usage: 522 bytes (25% of a 2048 byte maximum)
- 
-Uploading 'ds3231' to 'Arduino/Genuino Uno' using 'COM4'
-	The upload process has finished.
